@@ -291,6 +291,11 @@ footer a:hover{
     top: 65px;
   }
 
+  .video-container {
+    width: 80%;
+    height: 80%;
+  }
+
   section#detalhes{
     grid-column: 3 / 4 ;
   }
@@ -305,11 +310,11 @@ footer a:hover{
   }
 
   #projeto-container .info{
-    max-width: 60%;
+    max-width: 70%;
   }
 
   #projeto-container .foto{
-    max-width: 40%;
+    max-width: 30%;
     max-height: 200px;
     aspect-ratio: 1/1;
   }
